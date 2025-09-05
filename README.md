@@ -8,24 +8,27 @@
 ---
 
 ## 📂 專案架構
-├──老虎機python模擬
-  ├── configs.py # 遊戲設定、轉輪組合、Paytable、模擬核心函數
-  ├── linegame1.py # 單線老虎機 (Line Game 1)
-  ├── linegame2.py # 單線老虎機 (Line Game 2, 含 Free Game)
-  ├── waygame.py # 多路老虎機 (Way Game)
-  ├── simulate.py # 大量模擬與統計圖表
-├── 老虎機機率模型 / 機率模型設置.xlsx (各老虎機數學模型)
+```bash
+├── 老虎機python模擬
+│ ├── configs.py # 遊戲設定、轉輪組合、Paytable、模擬核心函數
+│ ├── linegame1.py # 單線老虎機 (Line Game 1)
+│ ├── linegame2.py # 單線老虎機 (Line Game 2, 含 Free Game)
+│ ├── waygame.py # 多路老虎機 (Way Game)
+├── simulate.py # 大量模擬與統計圖表
+├── 老虎機機率模型/
+│ └── 機率模型設置.xlsx # 各老虎機數學模型
 └── README.md
+```
 
 ---
 
-▶️ 使用方式
+## ▶️ 使用方式
 🎲 單次 Spin
 python linegame1.py
 python linegame2.py
 python waygame.py
 
-📊 模擬與統計分析
+## 📊 模擬與統計分析
 python simulate.py
 模擬完成後會輸出：
 資金曲線 (Bankroll Curve)
@@ -34,7 +37,7 @@ RTP 隨 Spin 變化圖 (RTP over Spins)
 
 ---
 
-🧮 Excel 模型 (數學建模)
+## 🧮 Excel 模型 (數學建模)
 在 models/ 資料夾中，包含三台不同老虎機的數學模型：
 Reel 配置
 Paytable 設定
@@ -44,14 +47,14 @@ Free Game 與 Scatter 概率設計
 
 ---
 
-🚀 重點
+## 🚀 重點
 組合機率與期望值計算：驗證遊戲公平性與平衡性
 數據模擬與視覺化：大量 Spins 測試，輸出 RTP 曲線與狀態分布
 Excel + Python 整合：理論建模與程式模擬互相驗證
 
 ---
 
-📌 未來期望擴充
+## 📌 未來期望擴充
 更多 Paylines 組合與複雜 Bonus 遊戲模式
 
 ---
