@@ -48,6 +48,7 @@ RTP 隨 Spin 變化圖 (RTP over Spins)
 在 models/ 資料夾中，包含三台不同老虎機的數學模型：
 Reel 配置
 Paytable 設定
+PayLines 設定
 理論 RTP 計算
 Free Game 與 Scatter 概率設計
 模型使用Python模擬結果二次驗證，並用於遊戲平衡性分析。
