@@ -28,6 +28,9 @@
 linegame1.py
 linegame2.py
 waygame.py
+⚙️ 遊戲參數設定
+configs.py
+
 ```
 
 ## 📊 模擬與統計分析
