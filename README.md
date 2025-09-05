@@ -25,14 +25,14 @@
 ## ▶️ 使用方式
 ```bash
 🎲 單次 Spin
-python linegame1.py
-python linegame2.py
-python waygame.py
+linegame1.py
+linegame2.py
+waygame.py
 ```
 
 ## 📊 模擬與統計分析
 ```bash
-python simulate.py
+simulate.py
 模擬完成後會輸出：
 資金曲線 (Bankroll Curve)
 單次獲利分布 (Profit Histogram)
