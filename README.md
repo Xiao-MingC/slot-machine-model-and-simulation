@@ -1,4 +1,4 @@
-# 🎰 Slot Machine Probability & Simulation
+# 🎰 Slot Machine Probability Model & Simulation
 
 本專案展示了 **老虎機（Slot Machine）的數學建模與模擬**，結合 **Excel 機率模型** 與 **Python 程式**，分析不同遊戲設計下的 **期望值、RTP（Return to Player）、中獎率、以及破產風險**。  
 
