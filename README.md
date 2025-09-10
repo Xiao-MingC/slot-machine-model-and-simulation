@@ -64,9 +64,14 @@ Excel + Python 整合：理論建模與程式模擬互相驗證
 
 ##🎮 遊戲示意圖
 ![數學模型示例圖](images/linegame2_main.png)
+(圖：數學模型示例圖)
 ![輸出結果範例圖（單次遊戲）](images/waygame.jpg)
+(圖：輸出結果範例圖/單次遊戲)
 ![輸出結果範例圖（模擬結果）](images/simulations.jpg)
+(圖：輸出結果範例圖/模擬)
 ![模擬結果統計圖示例](images/RPT~Spin.png)
+(圖：模擬結果統計圖示例)
+
 
 
 ---
