@@ -63,10 +63,12 @@ Excel + Python 整合：理論建模與程式模擬互相驗證
 ```
 
 ##🎮 遊戲示意圖
-```bash
-![slot-machine-model-and-simulation](images/linegame2_main.png)
+![數學模型示例圖](images/linegame2_main.png)
+![輸出結果範例圖（單次遊戲）](images/waygame.jpg)
+![輸出結果範例圖（模擬結果）](images/simulations.jpg)
+![模擬結果統計圖示例](images/RPT~Spin.png)
 
-```
+
 ---
 
 ## 📌 未來期望擴充
