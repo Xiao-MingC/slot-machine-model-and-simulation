@@ -61,6 +61,12 @@ Free Game 與 Scatter 概率設計
 數據模擬與視覺化：大量 Spins 測試，輸出 RTP 曲線與狀態分布
 Excel + Python 整合：理論建模與程式模擬互相驗證
 ```
+
+##🎮 遊戲示意圖
+```bash
+![Slot Machine Demo](images/linegame2_main.png)
+
+```
 ---
 
 ## 📌 未來期望擴充
